@@ -1,0 +1,22 @@
+body{
+    font-family:'Poppins', sans-serif;
+}
+.info-bg{
+    background-color: #FCEAE8;
+}
+.buy-now-button{
+    border-radius: 10px;
+    background-image:linear-gradient(45deg, tomato, red);
+    border: 0;
+    padding: 10px 10px;
+    color: white;
+}
+.buy-now-button:hover{
+    background-image:linear-gradient(45deg, red, tomato);
+}
+.b-radius{
+    border-radius: 15px;
+}
+.categories img{
+    width: 100px;
+}
